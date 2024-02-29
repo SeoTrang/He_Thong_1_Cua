@@ -1,3 +1,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/SeoTrang/One_Stop_System_Server_NestJs
+[submodule "Admin"]
+	path = Admin
+	url = https://github.com/SeoTrang/One_Stop_System_Admin_Angular
